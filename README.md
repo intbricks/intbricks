@@ -1,5 +1,5 @@
 ## 👋 Hi
-We develop tools and services for data integrations.
+We develop tools and services for data integrations for users of all technical levels.
 
 <!--
 **intbricks/intbricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
